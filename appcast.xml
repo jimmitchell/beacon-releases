@@ -5,5 +5,18 @@
     <link>https://github.com/jimmitchell/beacon-releases</link>
     <description>Updates for Beacon</description>
     <language>en</language>
+    <item>
+      <title>Beacon 0.1.0</title>
+      <pubDate>Wed, 28 Oct 2026 11:49:00 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>The first release of Beacon, a free, Raycast-style launcher for macOS 26 and later. Press ⌥Space in any app to open it.</p>
+<ul><li><b>Apps and commands</b>: fuzzy search that learns what you pick, a ⌘K actions menu, and global shortcuts for any command or app.</li><li><b>Calculator</b>: math, unit and currency conversion, dates and time zones as you type.</li><li><b>Windows</b>: halves, thirds, quarters, displays and more from the keyboard, drag-to-edge snapping, saved layouts, and a window switcher.</li><li><b>Files and emoji</b>: Spotlight-backed file search and an emoji picker with skin-tone memory.</li><li><b>Extras</b>: encrypted clipboard history, snippets that expand as you type, quicklinks and web search, system commands, and script commands.</li></ul>
+<p>Beacon works without any permissions; Accessibility and Input Monitoring unlock window management, pasting and snippet expansion. Updates install from inside the app.</p>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.1.0/Beacon-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="IWRwTpqnjpRUdROrJ8BvXANAP7dMiCns1zYmerUmximwOBS7Z7G8ZUkp+6tekM7BcQ7VQAWDAZcV9rET8IoFDA==" length="3334362"/>
+    </item>
   </channel>
 </rss>
