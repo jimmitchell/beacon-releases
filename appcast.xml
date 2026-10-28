@@ -6,6 +6,17 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.2.0</title>
+      <pubDate>Wed, 28 Oct 2026 12:12:20 +0000</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul><li><b>Aliases</b>: give any app or command a short name in Settings → Commands. Type it in Beacon and that item comes first.</li><li><b>Quick Look</b>: press ⌘Y on a file to preview it beside the list.</li><li><b>Browse folders</b>: press → on a folder to look inside it, and ← to go back up. Type to filter.</li><li><b>Open With</b>: press ⌘O on a file to pick the app that opens it.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.2.0/Beacon-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="MydWxF12OX0OxsW7KeccgypgyV6iHVGm5aceCZjFvLiLGIFXXvJ7WJ2O4vXD4NKA1IHlGSbP5V0sGiUdGnSXAA==" length="3405793"/>
+    </item>
+    <item>
       <title>Beacon 0.1.0</title>
       <pubDate>Wed, 28 Oct 2026 11:49:00 +0000</pubDate>
       <sparkle:version>19</sparkle:version>
