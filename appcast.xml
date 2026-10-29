@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.3.0</title>
+      <pubDate>Thu, 29 Oct 2026 12:37:51 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>iCloud sync</b>: turn on Sync with iCloud in Settings → General, or in the welcome window, and Beacon keeps your Macs in step: settings and shortcuts, aliases, quicklinks, snippets, scripts, saved layouts, emoji favorites, and what you open most.</p>
+<ul><li><b>Private</b>: everything goes to your own iCloud, and snippet text, quicklink URLs, scripts and window titles are end-to-end encrypted. Clipboard history never leaves the Mac it was copied on.</li><li><b>Scripts ask first</b>: a script that arrives or changes from another Mac shows Allow and Run until you&#x27;ve allowed it here. Press ⌘E to read it first.</li><li><b>Each Mac stays its own</b>: launch at login, the menu bar icon, the launcher&#x27;s position, permissions, and whether snippets expand as you type are set per Mac.</li><li><b>Off by default</b>, and turning it off keeps everything on this Mac.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.3.0/Beacon-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="lw/t9/g7DmDAW2fMwkH7ik6uvmZ7sdDXsIleyH/aScPKHJvB+ovA5jHGUx9TpDwHa3c4mQIijD0ctT8e1ttuAw==" length="3643246"/>
+    </item>
+    <item>
       <title>Beacon 0.2.0</title>
       <pubDate>Wed, 28 Oct 2026 12:12:20 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
