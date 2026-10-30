@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.5.0</title>
+      <pubDate>Fri, 30 Oct 2026 19:13:36 +0000</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Up Next</b>: when a meeting with a video call is about to start or already on, it shows at the top of Beacon. Press ⌘J to join it. ↵ still opens what&#x27;s selected, as before.</p>
+<ul><li><b>Tomorrow in My Schedule</b>: once today&#x27;s events are over, My Schedule shows tomorrow&#x27;s first.</li><li><b>Hide calendars</b>: the new Schedule tab in Settings leaves calendars like holidays or birthdays out of My Schedule and Up Next, and turns Up Next off if you&#x27;d rather not see it.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.5.0/Beacon-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="V5UX+uFBU+mooSiVux2i6akGyhGT6LHB28E46gJC0aJb+BSWSq78lE5/W6G3MQ5o/Z0ArZTHEkuzH0kcLBCSDg==" length="3821861"/>
+    </item>
+    <item>
       <title>Beacon 0.4.0</title>
       <pubDate>Fri, 30 Oct 2026 18:25:30 +0000</pubDate>
       <sparkle:version>39</sparkle:version>
