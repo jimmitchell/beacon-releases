@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.3.1</title>
+      <pubDate>Fri, 30 Oct 2026 15:33:34 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>iCloud sync, filled in</b>: three things that stayed behind on each Mac in 0.3.0 now follow you.</p>
+<ul><li><b>Apps in other places</b>: aliases and shortcuts for an app now work on a Mac where it&#x27;s installed somewhere else, such as ~/Applications. Beacon finds it by its bundle ID.</li><li><b>Search the web with</b>: the quicklink offered at the bottom of every search now syncs. The choice you made before updating goes up once, unless another Mac already sent one.</li><li><b>Merged built-ins keep their extras</b>: when built-in quicklinks and snippets from an older install merge with another Mac&#x27;s copies, their aliases, shortcuts and ranking now come along instead of being lost.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.3.1/Beacon-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="FdoZuQ+J6CznQ8vqo0d+swLORIgaIcI1LhfGkJMSInEzXp+6ZNN6qU5NYe6dip3/zpcOxdj/yGrKuYg4kortBw==" length="3677851"/>
+    </item>
+    <item>
       <title>Beacon 0.3.0</title>
       <pubDate>Thu, 29 Oct 2026 12:37:51 +0000</pubDate>
       <sparkle:version>28</sparkle:version>
