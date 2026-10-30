@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.4.0</title>
+      <pubDate>Fri, 30 Oct 2026 18:25:30 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>My Schedule</b>: type &quot;my schedule&quot; to see today&#x27;s events: what&#x27;s on now, what&#x27;s coming up, all-day events, and what&#x27;s already over. Press ↵ to join a meeting&#x27;s video call.</p>
+<ul><li><b>One key to join</b>: Zoom, Google Meet, Microsoft Teams, Webex, FaceTime and other call links are found in the event&#x27;s details. ⌘↵ opens the event in Calendar instead, and ⇧⌘C copies the link.</li><li><b>Your calendars, read only</b>: Beacon asks for Calendar access the first time you open My Schedule, or from Set Up Permissions. Nothing about your events syncs or leaves this Mac.</li><li><b>VoiceOver</b>: results, actions, emoji and shortcuts now have spoken labels, and VoiceOver announces the selected result as you move through the list.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.4.0/Beacon-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="qexUnve5je0AOqkr5SZCn5fmBbqIZZ3xsTCVcHlgjptibeSvDyRM34H1Y86UYTWEHiR9sNzKuzlZ0oviDjXpDw==" length="3761962"/>
+    </item>
+    <item>
       <title>Beacon 0.3.2</title>
       <pubDate>Fri, 30 Oct 2026 16:42:21 +0000</pubDate>
       <sparkle:version>34</sparkle:version>
