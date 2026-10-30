@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.3.2</title>
+      <pubDate>Fri, 30 Oct 2026 16:42:21 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>iCloud sync fix</b>: quicklinks, snippets, layouts, scripts and what you open most weren&#x27;t reaching iCloud. Only settings and emoji were syncing. Beacon now sends whatever was left behind the next time it starts.</p>
+<ul><li><b>Sync problems stay visible</b>: if iCloud turns down a change, Settings → General keeps showing why, instead of clearing it right away.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.3.2/Beacon-0.3.2.dmg" type="application/octet-stream" sparkle:edSignature="BkY5/ZafwkKcHdBFjqac7W54YtlyyeMN9+l3P2CJXSd6a6wW6RlO3EnRClSUWkViYjRI4lpoElPILdaNpAXwAg==" length="3682788"/>
+    </item>
+    <item>
       <title>Beacon 0.3.1</title>
       <pubDate>Fri, 30 Oct 2026 15:33:34 +0000</pubDate>
       <sparkle:version>33</sparkle:version>
