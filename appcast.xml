@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.6.0</title>
+      <pubDate>Fri, 30 Oct 2026 19:46:08 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>System Settings</b>: type the name of a settings pane, like &quot;bluetooth&quot;, &quot;displays&quot; or &quot;full disk access&quot;, and press ↵ to open it. Searching for what&#x27;s inside a pane works too: &quot;wifi&quot;, &quot;hot corners&quot;, &quot;night shift&quot;, &quot;time zone&quot;.</p>
+<ul><li><b>Pick Color</b>: picks a color anywhere on screen with the macOS loupe and copies it as hex. ⌘↵ copies it as <code>rgb()</code> instead.</li><li><b>Privacy pages too</b>: Camera, Microphone, Screen Recording, Full Disk Access and the other Privacy &amp; Security pages open directly.</li><li><b>Hotkeys and aliases</b>: give a settings pane or Pick Color its own shortcut in Settings → Commands.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.6.0/Beacon-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="XE2J46AD0dcJw4L6sqmYRu5Xv76fWi/O4rEVCDX8cpclpXy3PCR8tdk+M0ORdZ3D/wwJK4c7WWZyp4ODdX94Ag==" length="3859312"/>
+    </item>
+    <item>
       <title>Beacon 0.5.0</title>
       <pubDate>Fri, 30 Oct 2026 19:13:36 +0000</pubDate>
       <sparkle:version>43</sparkle:version>
