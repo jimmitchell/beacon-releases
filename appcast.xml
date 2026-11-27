@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.7.0</title>
+      <pubDate>Fri, 27 Nov 2026 17:08:55 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Favorites</b>: press ⇧⌘F on any app or command to pin it to the top of Beacon, above Recent. ⌥⌘↑ and ⌥⌘↓ change the order, and Settings → Commands lists them. Favorites sync with iCloud.</p>
+<ul><li><b>Force Quit</b>: type &quot;force quit&quot; (or &quot;kill&quot;) to see your running apps with their CPU and memory use, heaviest first. Press ↵ twice to force quit one, or ⌘↵ to quit it normally.</li><li><b>Skip more apps in Clipboard History</b>: Settings → Clipboard now lets you add your own apps to the list whose copies aren&#x27;t recorded, next to the built-in password managers.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.7.0/Beacon-0.7.0.dmg" type="application/octet-stream" sparkle:edSignature="kDJUxL6+4QDXi44wknWSeW/rpacvWJt9VNDokelbG9/MGtlPdsyTNSLLg2ZOIY4glx6CQAh6jkCiRD9mQglrAg==" length="3949724"/>
+    </item>
+    <item>
       <title>Beacon 0.6.0</title>
       <pubDate>Fri, 30 Oct 2026 19:46:08 +0000</pubDate>
       <sparkle:version>46</sparkle:version>
