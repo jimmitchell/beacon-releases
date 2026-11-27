@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.8.0</title>
+      <pubDate>Fri, 27 Nov 2026 17:53:28 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Shortcuts</b>: your shortcuts from the Shortcuts app now show up in Beacon. Type a shortcut&#x27;s name and press ↵ to run it in the background, or ⌘↵ to open it in Shortcuts.</p>
+<ul><li><b>See what a shortcut returns</b>: ⌥↵ runs it with Beacon open on its output, ready to copy (↵) or run again (⌘R).</li><li><b>Send it text</b>: ⇧↵ asks for text to pass in as the shortcut&#x27;s input, then runs it.</li><li><b>Hotkeys, aliases and favorites</b>: give a shortcut its own hotkey or alias in Settings → Commands, or pin it with ⇧⌘F. They follow you to your other Macs.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.8.0/Beacon-0.8.0.dmg" type="application/octet-stream" sparkle:edSignature="MM6hz3gQK0g2wcKCsEwInrTyUa2BiI6t7X4Vl5HeladWd91r4u92jsP6fbp/xQkHba7Ev8OnmoImFrLcsrb0AQ==" length="4013615"/>
+    </item>
+    <item>
       <title>Beacon 0.7.0</title>
       <pubDate>Fri, 27 Nov 2026 17:08:55 +0000</pubDate>
       <sparkle:version>50</sparkle:version>
