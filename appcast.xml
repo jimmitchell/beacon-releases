@@ -6,6 +6,18 @@
     <description>Updates for Beacon</description>
     <language>en</language>
     <item>
+      <title>Beacon 0.9.0</title>
+      <pubDate>Fri, 27 Nov 2026 18:32:50 +0000</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p><b>Search Menu Items</b>: find any command in the menus of the app you&#x27;re using. Type &quot;search menu items&quot; (or give it a hotkey), then start typing: &quot;export pdf&quot;, &quot;new tab&quot;, &quot;show sidebar&quot;. Each result shows where it lives and its keyboard shortcut, and ↵ chooses it. Needs Accessibility.</p>
+<ul><li><b>Custom window sizes</b>: Settings → Windows → Custom Sizes lets you add your own window actions, like &quot;two thirds on the left&quot; or &quot;1280 × 800, centered&quot;. Run them from Beacon by name or give each its own shortcut. They sync to your other Macs.</li><li><b>Cleaner menu results in browsers</b>: bookmarks and history pages are left out, so only commands show up.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/jimmitchell/beacon-releases/releases/download/v0.9.0/Beacon-0.9.0.dmg" type="application/octet-stream" sparkle:edSignature="8zaIZmeg8hwCec9z6w+PpgwHpZcvHq9PlukOqb3Z1sq8nJ6qGWEShFRCGOOEzicR/TzJkuU1bLGTjMFHLCH6DQ==" length="4135052"/>
+    </item>
+    <item>
       <title>Beacon 0.8.0</title>
       <pubDate>Fri, 27 Nov 2026 17:53:28 +0000</pubDate>
       <sparkle:version>55</sparkle:version>
